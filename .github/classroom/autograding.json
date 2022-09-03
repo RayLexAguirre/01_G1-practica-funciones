@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Elevar Cubo",
+      "setup": "npm install",
+      "run": "npm run test elevarCubo.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3
+    },
+    {
+      "name": "Convertir a Fahrenheit",
+      "setup": "",
+      "run": "npm run test convertirFahrenheit.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3
+    },
+    {
+      "name": "Calcular Precio Terreno",
+      "setup": "",
+      "run": "npm run test calcularPrecioTerreno.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    }
+  ]
+}
